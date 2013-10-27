@@ -1,0 +1,6 @@
+projscript.py makes an executable and may run and show results
+using plotout.py to plot and save plots as .png and .pdf
+celeb.cpp is the "Planet" class source file
+planetarysystem.cpp is the "Solar system" class source file
+project3.cpp is where the main file is 
+
